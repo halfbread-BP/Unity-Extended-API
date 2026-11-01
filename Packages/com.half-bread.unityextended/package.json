@@ -2,7 +2,7 @@
 	"name": "com.half-bread.unityextended",
 	"displayName":"Unity Extended",
 	"version": "0.1.0",
-	"unity": "6000.0",
+	"unity": "6000.4",
 	"unityRelease": "0f1",
 	"description": "This is Unity Extended!\n\nThis package serves as to bring many QoL (Quality of Life) features to the engine's C# API!! :D\n\n\n\n\n\n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
 	"author": {
