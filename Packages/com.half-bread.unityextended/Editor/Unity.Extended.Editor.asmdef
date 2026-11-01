@@ -1,0 +1,10 @@
+{
+    "name": "Unity.Extended.Editor",
+    "references": [
+      "Unity.Extended"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "LorenzoPerrin.UnityExtended.Tests",
+    "references": [
+        "LorenzoPerrin.UnityExtended"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

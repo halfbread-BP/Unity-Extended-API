@@ -1,0 +1,14 @@
+{
+    "name": "LorenzoPerrin.UnityExtended.Editor.Tests",
+    "references": [
+        "LorenzoPerrin.UnityExtended.Editor",
+        "LorenzoPerrin.UnityExtended"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
