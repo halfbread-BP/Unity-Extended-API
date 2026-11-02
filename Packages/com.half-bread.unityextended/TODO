@@ -1,0 +1,6 @@
+﻿* Bring support for non-.NET Standard 2.1+
+
+* .NET 10:
+    * Make all namespaces file-scoped
+    * globalusings
+        * FastMath = MathHelper.FastMath
